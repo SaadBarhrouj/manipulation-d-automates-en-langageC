@@ -1,0 +1,7 @@
+0 1 x
+1 2 y
+2 3 c
+3 4 d
+
+#initiaux 0
+#finaux 4
